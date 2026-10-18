@@ -62,7 +62,7 @@ and generate. No account, no data leaving your machine.
 
 Prefer a web form instead? Use the free browser version: [invoice generator](https://kleogeos.github.io/freelancer-tools/invoice.html) · [rate calculator](https://kleogeos.github.io/freelancer-tools/rate-calculator.html)
 
-Prefer Python? Same tool, same output: [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli). Calculate your hourly rate via npx too: [freelance-rate-js](https://github.com/kleogeos/freelance-rate-js).
+Prefer Python? Same tool, same output: [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli). Calculate your hourly rate via npx too: [freelance-rate-js](https://github.com/kleogeos/freelance-rate-js). Scan a contract for missing clauses via npx too: [contract-checklist-js](https://github.com/kleogeos/contract-checklist-js).
 
 Need the paperwork beyond invoices — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15, Telegram Stars or crypto, no KYC)](https://kleogeos.github.io/freelancer-tools/kit.html?src=cli-invoice-js)
 
