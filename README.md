@@ -64,6 +64,9 @@ Prefer a web form instead? Use the free browser version: [invoice generator](htt
 
 Prefer Python? Same tool, same output: [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli). Calculate your hourly rate via npx too: [freelance-rate-js](https://github.com/kleogeos/freelance-rate-js). Scan a contract for missing clauses via npx too: [contract-checklist-js](https://github.com/kleogeos/contract-checklist-js).
 
+
+Using the invoice generator a lot? [Telegram subscription bot](https://t.me/freelancerkitbot) — 250 Stars/month (~$3.25), unlimited invoices generated and sent right in chat, cancel anytime (`/subscribe`).
+
 Need the paperwork beyond invoices — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15, Telegram Stars or crypto, no KYC)](https://kleogeos.github.io/freelancer-tools/kit.html?src=cli-invoice-js)
 
 Free and will stay free. If it saved you time: [tip with crypto](https://kleogeos.github.io/freelancer-tools/donate.html).
