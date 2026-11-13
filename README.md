@@ -62,10 +62,9 @@ and generate. No account, no data leaving your machine.
 
 Prefer a web form instead? Use the free browser version: [invoice generator](https://kleogeos.github.io/freelancer-tools/invoice.html) · [rate calculator](https://kleogeos.github.io/freelancer-tools/rate-calculator.html)
 
+Prefer a Telegram chat instead of a JSON file? [Freelancer Kit bot](https://kleogeos.github.io/freelancer-tools/invoice-bot.html?src=cli-invoice-js) generates a custom HTML invoice from chat input. It costs 100 Telegram Stars per invoice, or 250 Stars for 30 days of unlimited invoices.
+
 Prefer Python? Same tool, same output: [freelance-invoice-cli](https://github.com/kleogeos/freelance-invoice-cli). Calculate your hourly rate via npx too: [freelance-rate-js](https://github.com/kleogeos/freelance-rate-js). Scan a contract for missing clauses via npx too: [contract-checklist-js](https://github.com/kleogeos/contract-checklist-js).
-
-
-Using the invoice generator a lot? [Telegram subscription bot](https://t.me/freelancerkitbot) — 250 Stars/month (~$3.25), unlimited invoices generated and sent right in chat, cancel anytime (`/subscribe`).
 
 Need the paperwork beyond invoices — proposals, contracts, late-payment emails, client scripts? [Freelancer Starter Kit ($15, Telegram Stars or crypto, no KYC)](https://kleogeos.github.io/freelancer-tools/kit.html?src=cli-invoice-js)
 
