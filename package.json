@@ -1,6 +1,6 @@
 {
   "name": "freelance-invoice-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a clean HTML invoice from a JSON file. Zero dependencies, runs via npx straight from GitHub.",
   "bin": {
     "freelance-invoice": "./index.js"
